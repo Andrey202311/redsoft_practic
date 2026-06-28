@@ -8,8 +8,8 @@
 - ВМ2: client1.redosipa.test (192.168.3.11)
 
 ## Тест-кейсы
-| № | Название | Статус |
-|---|----------|--------|
+| № | Название |
+|---|----------|
 | 1 | [Установка сервера IPA с ЦС](TC1_IPA_Server_Install/) |
 | 2 | [Ввод клиента в домен IPA](TC2_IPA_Client_Join/) |
 | 3 | [NextCloud + PostgreSQL + Nginx](TC3_NextCloud_PostgreSQL_Nginx/) |
